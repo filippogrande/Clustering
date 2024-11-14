@@ -4,9 +4,12 @@ from torch.utils.data import DataLoader
 import os
 
 # Configura il dispositivo per l'elaborazione (GPU se disponibile)
+# device verrà utilizzato per spostare i dati e il modello sulla GPU per un'elaborazione più veloce
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-# Carica il modello VGG16 pre-addestrato e mettilo in modalità eval
+# Carica il modello VGG16 pre-addestrato sui dati ImageNet
+#pretarined=True indica che vogliamo utilizzare i pesi pre-addestrati
+#.to(device) sposta il modello sulla GPU o sulla CPU, a seconda di ciò che è stato configurato nel passo presedente
 model = models.vgg16(pretrained=True).to(device)
 model.eval()
 
