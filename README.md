@@ -14,3 +14,6 @@ Il progetto mira a esplorare come i principi della percezione visiva, per esempi
 3. Applicare un algoritmo di Clustering (probabilmente k-means)
 4. Applicare t-SNE o PCA per ridurre i vettori a 2D o 3D e visualizzare i cluster
 5. Osservare i risultati e confrontare i gruppi creati dall’algoritmo con la percezione visiva umana, per valutare se il clustering riflette le leggi della percezione visiva (Gestalt) come la somiglianza o la vicinanza.
+
+## Teoria
+[https://github.com/filippogrande/Clustering](https://docs.google.com/document/d/1CVbiuZjC4-As8M-NiKdd1LiYo3KA3h_9bFYGV9zm8EI/edit?usp=share_link)
