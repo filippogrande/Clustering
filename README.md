@@ -16,4 +16,4 @@ Il progetto mira a esplorare come i principi della percezione visiva, per esempi
 5. Osservare i risultati e confrontare i gruppi creati dall’algoritmo con la percezione visiva umana, per valutare se il clustering riflette le leggi della percezione visiva (Gestalt) come la somiglianza o la vicinanza.
 
 ## Teoria
-(https://docs.google.com/document/d/1CVbiuZjC4-As8M-NiKdd1LiYo3KA3h_9bFYGV9zm8EI/edit?usp=share_link)
+[Documento Con teoria](https://docs.google.com/document/d/1CVbiuZjC4-As8M-NiKdd1LiYo3KA3h_9bFYGV9zm8EI/edit?usp=share_link)
