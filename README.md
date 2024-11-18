@@ -17,3 +17,6 @@ Il progetto mira a esplorare come i principi della percezione visiva, per esempi
 
 ## Teoria
 [Documento Con teoria](https://docs.google.com/document/d/1CVbiuZjC4-As8M-NiKdd1LiYo3KA3h_9bFYGV9zm8EI/edit?usp=share_link)
+
+## Presentazione
+[link canva](https://www.canva.com/design/DAGW02zInzc/3oRBsWaE71FGf5QHhNFkzQ/edit)
