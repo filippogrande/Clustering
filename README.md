@@ -24,4 +24,4 @@ Come algoritmo di clustering è stato utilizzato k-means. In allegato ci sono tr
 
 ## Presentazione
 
-[canva](https://trail.canva.com/CL0/https:%2F%2Fwww.canva.com%2Fdesign%2FDAGW1JlAZjs%2Fshare%3Finvite=F-3cr23tophQcdPfkxN5Zg%26utm_campaign=designshare%26utm_medium=email%26utm_source=shareButton/2/010001933f3bfa81-53139258-608e-45f9-9060-f2666221fc72-000000/5bCzNMy7_IcOr1T2rZvlEsoSP3WJ7UUcdZjZofHPFA0=379)
+[Canva](https://trail.canva.com/CL0/https:%2F%2Fwww.canva.com%2Fdesign%2FDAGW1JlAZjs%2Fshare%3Finvite=F-3cr23tophQcdPfkxN5Zg%26utm_campaign=designshare%26utm_medium=email%26utm_source=shareButton/2/010001933f3bfa81-53139258-608e-45f9-9060-f2666221fc72-000000/5bCzNMy7_IcOr1T2rZvlEsoSP3WJ7UUcdZjZofHPFA0=379)
