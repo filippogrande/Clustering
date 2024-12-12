@@ -10,9 +10,9 @@ Il progetto mira a esplorare come i principi della percezione visiva, per esempi
 
 ## Struttura del codice:
 Come algoritmo di clustering è stato utilizzato k-means. In allegato ci sono tre versioni del codice, al fine di avere più esempi di esecuzione differenti:
--  "Cellule.ipy" -> utilizza un dataSet di cellule in toni di grigio, compresso in Final (ridotto e presente in "Cellule")
--  "nome_file.py" -> utilizza un dataSet di vestiti in toni di grigio (presente in "nome_cartella")
--  "nome_file.py" -> utilizza un'immagine a colori (presente in "nome_cartella")
+-  "Cellule.ipynb" -> utilizza un dataSet di cellule in toni di grigio, compresso in Final (ridotto e presente in "Cellule")
+-  "nome_file.ipynb" -> utilizza un dataSet di vestiti in toni di grigio (presente in "nome_cartella")
+-  "nome_file.ipynb" -> utilizza un'immagine a colori (presente in "nome_cartella")
 
 ## Teoria 
 [Drive Documenti](https://docs.google.com/document/d/1lKptfeHIalgo7gZVGLcIR5UrjhuGdDHuwXGlP5hw9EY/edit?usp=sharing)
