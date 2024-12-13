@@ -18,10 +18,6 @@ Come algoritmo di clustering è stato utilizzato k-means. In allegato ci sono tr
 - "Vestiti.ipynb" -> utilizza un dataSet di vestiti in toni di grigio (presente in "Vestiti")
 - Sia nella cartella cellule che in vestiti è presente una cartella risultati che contiene i grafici e i cluster dell'ultima iterazione del codice
 
-## Teoria
-
-[Drive Documenti](https://docs.google.com/document/d/1lKptfeHIalgo7gZVGLcIR5UrjhuGdDHuwXGlP5hw9EY/edit?usp=sharing)
-
 ## Presentazione
 
 [Canva](https://trail.canva.com/CL0/https:%2F%2Fwww.canva.com%2Fdesign%2FDAGW1JlAZjs%2Fshare%3Finvite=F-3cr23tophQcdPfkxN5Zg%26utm_campaign=designshare%26utm_medium=email%26utm_source=shareButton/2/010001933f3bfa81-53139258-608e-45f9-9060-f2666221fc72-000000/5bCzNMy7_IcOr1T2rZvlEsoSP3WJ7UUcdZjZofHPFA0=379)
