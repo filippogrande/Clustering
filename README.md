@@ -16,7 +16,7 @@ Come algoritmo di clustering è stato utilizzato k-means. In allegato ci sono tr
 
 - "Cellule.ipynb" -> utilizza un dataSet di cellule in toni di grigio, le immagini sono presenti nel folder final (presente in "Cellule")
 - "Vestiti.ipynb" -> utilizza un dataSet di vestiti in toni di grigio (presente in "Vestiti")
-- Sia nella cartella cellule che in vestiti è presente una cartella risultati che contiene i grafici e i cluster dell'ultima iterazione del codice
+Sia nella cartella cellule che in vestiti è presente una cartella risultati che contiene i grafici e i cluster dell'ultima iterazione del codice
 
 ## Presentazione
 
