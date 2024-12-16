@@ -15,7 +15,7 @@ Il progetto mira a esplorare come i principi della percezione visiva, per esempi
 Come algoritmo di clustering è stato utilizzato k-means. In allegato ci sono tre versioni del codice, al fine di avere più esempi di esecuzione differenti:
 
 - "Cellule.ipynb" -> utilizza un dataSet di cellule in toni di grigio, le immagini sono presenti nel folder final (presente in "Cellule")
-- "Vestiti.ipynb" -> utilizza un dataSet di vestiti in toni di grigio (che scarica automaticamente)
+- "Vestiti.ipynb" -> utilizza un dataSet di vestiti in toni di grigio (che viene scaricato automaticamente)
 
 Sia nella cartella cellule che in vestiti è presente una cartella risultati che contiene i grafici e i cluster dell'ultima iterazione del codice.
 
